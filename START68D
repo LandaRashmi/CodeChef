@@ -1,0 +1,69 @@
+# 🧩 Problem: Bull or Bear (`BULLBEAR`)
+🔗 [Link to Problem](https://www.codechef.com/START68D/problems/BULLBEAR)
+
+- 📅 **Contest:** Starters 68 Division 2  
+- 📆 **Date:** 25 May 2022  
+- 🚩 **Difficulty:** Beginner
+
+---
+
+## 📝 Problem Statement (Short Summary)
+
+Chef buys a stock at price `x` and sells it at price `y`.  
+You need to determine whether Chef made a **PROFIT**, a **LOSS**, or if it was a **NEUTRAL** trade (no profit or loss).
+
+---
+
+## ✅ My Code
+
+```c
+#include <stdio.h>
+
+int main(void) {
+    int t,x,y;
+    scanf("%d",&t);
+    while(t--)
+    {
+        scanf("%d %d",&x,&y);
+        if(x-y<0)
+        {
+            printf("PROFIT\n");
+        }
+        if(x-y==0)
+        {
+            printf("NEUTRAL\n");
+        }
+        if(x-y>0)
+        {
+            printf("LOSS\n");
+        }
+    }
+    return 0;
+}
+
+
+💡 Explanation
+First, we read the number of test cases t.
+
+For each test case, we read two integers:
+
+x = buying price
+
+y = selling price
+
+We then compare the values:
+
+If y > x, Chef makes a PROFIT
+
+If y < x, Chef faces a LOSS
+
+If x == y, it's a NEUTRAL outcome
+
+These conditions are checked using three separate if statements.
+
+For each test case, the appropriate result is printed on a new line.
+
+This is a basic comparison-based problem that checks your understanding of conditional logic and standard I/O in C.
+
+🧠 Time Complexity: O(t)
+📦 Space Complexity: O(1)
