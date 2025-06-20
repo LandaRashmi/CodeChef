@@ -40,7 +40,7 @@ int main(void) {
     }
     return 0;
 }
-
+```
 
 ## 💡 Explanation
 First, we read the number of test cases t.
