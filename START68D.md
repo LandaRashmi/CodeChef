@@ -42,7 +42,7 @@ int main(void) {
 }
 
 
-💡 Explanation
+## 💡 Explanation
 First, we read the number of test cases t.
 
 For each test case, we read two integers:
