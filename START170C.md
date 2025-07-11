@@ -1,5 +1,5 @@
 🚀 CodeChef Weekly Upload – Starters 170 Division 3  
-🗓️ Date: 12 June 2024  
+🗓️ Date: 22 January 2025  
 📁 Contest: Starters 170 Division 3  
 🎯 Difficulty: Beginner to Intermediate  
 👨‍💻 Language: Python  
