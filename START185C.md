@@ -1,12 +1,8 @@
-🚀 CodeChef Weekly Upload – Starters 185 Division 3 
-
-🗓️ Date: 10 July 2025
-
-📁 Contest: Starters 185 Division 3
-
-🎯 Difficulty Level: Beginner to Intermediate
-
-👨‍💻 Language Used: Python
+🚀 CodeChef Weekly Upload – Starters 185 Division 3  
+🗓️ Date: 7 May 2025  
+📁 Contest: Starters 185 Division 3  
+🎯 Difficulty Level: Beginner to Intermediate  
+👨‍💻 Language Used: Python  
 
 ---
 
