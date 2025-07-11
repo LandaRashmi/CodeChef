@@ -1,5 +1,5 @@
 🚀 CodeChef Weekly Upload – Starters 162 Division 3  
-🗓️ Date: 17 April 2024  
+🗓️ Date: 27 November 2024  
 📁 Contest: Starters 162 Division 3  
 🎯 Difficulty: Beginner  
 👨‍💻 Language: Python  
