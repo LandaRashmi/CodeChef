@@ -1,5 +1,5 @@
 🚀 CodeChef Weekly Upload – Starters 188 Division 3  
-🗓️ Date: 31 July 2025  
+🗓️ Date: 28 May 2025  
 📁 Contest: Starters 188 Division 3  
 🎯 Difficulty: Beginner to Intermediate  
 👨‍💻 Language: Python  
