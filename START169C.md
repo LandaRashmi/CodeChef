@@ -1,5 +1,5 @@
 🚀 CodeChef Weekly Upload – Starters 169 Division 3  
-🗓️ Date: 5 June 2024  
+🗓️ Date: 15 january 2025   
 📁 Contest: Starters 169 Division 3  
 🎯 Difficulty: Beginner to Intermediate  
 👨‍💻 Language: Python  
