@@ -1,5 +1,5 @@
 🚀 CodeChef Weekly Upload – Starters 176 Division 4  
-🗓️ Date: 5 March 2025 
+🗓️ Date: 5 March 2025   
 📁 Contest: Starters 176 Division 4  
 🎯 Difficulty: Beginner to Intermediate  
 👨‍💻 Language: Python  
