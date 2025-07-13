@@ -7,11 +7,10 @@
 
 ---
 
-## 🧩 Problem: Investment Planning (`INVESTMENT`)
+**🧩 Problem: Investment Planning (`INVESTMENT`)**  
 🔗 [Link to Problem](https://www.codechef.com/problems/INVESTMENT)  
 🚩 Difficulty: Beginner
 
----
 
 ### 📝 Problem Statement (Short Summary)
 
@@ -19,7 +18,6 @@ Chef wants to invest in a scheme that doubles his investment.
 He can only invest if the amount he has (`x`) is **at least twice** the required amount (`y`).  
 Print **YES** if Chef can invest, otherwise print **NO**.
 
----
 
 ### ✅ My Code
 
@@ -58,5 +56,5 @@ If x ≥ 2 * y, then Chef can invest, so print YES.
 
 Otherwise, print NO.
 
-🧠 Time Complexity: O(t)
+🧠 Time Complexity: O(t)  
 📦 Space Complexity: O(1)
